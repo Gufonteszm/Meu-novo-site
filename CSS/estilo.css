@@ -12,6 +12,72 @@ background-color: #000000;
 color: #e0e0e0;
 }
 
+#surgimento h2{
+font-size: x-large;
+padding-left: 100px;
+padding-right: 100px;
+padding-top: 20px;
+padding-bottom: 20px;
+word-break: break-all;
+text-align: left;
+font-family: sans-serif;
+
+
+}
+
+#surgimento p{
+    font-size:large;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    word-break: break-all;
+    text-align: left;
+    font-family: sans-serif;
+}
+
+#utilidade h2{
+    font-size: x-large;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    word-break: break-all;
+    text-align: left;
+    font-family: sans-serif;}
+
+#utilidade p{
+    font-size:large;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    word-break:break-all;
+    text-align: left;
+    font-family: sans-serif;   
+}
+
+#contato h2{
+    font-size: x-large;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    word-break: break-all;
+    text-align: left;
+    font-family: sans-serif;}
+
+#contato  p{
+font-size:large;
+padding-left: 100px;
+padding-right: 100px;
+padding-top: 20px;
+padding-bottom: 50px;
+word-break: break-all;
+text-align: left;
+font-family: sans-serif;
+}
+
 header {background-color: #110700;
 color: #e0e0e0;
 padding: 15px 15px 15px 15px;
@@ -49,13 +115,15 @@ background-color: #e1151e ;}
 
 .centro {
     text-align: center;
+    font-family: sans-serif;
+    font-size: 3em;
 }
 
 
 .sobre-texto {
     flex: 1;
     padding: 20px;
-
+font-family: sans-serif;
 }
 
 .sobre-texto h1{
@@ -147,6 +215,7 @@ padding-left: 80px;
 margin-bottom: 25px;
 margin-top: 10px;
 font-family: sans-serif;
+text-align: center;
 }
 
 
